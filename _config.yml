@@ -1,7 +1,8 @@
 # Site settings
 title: Rachel Oluwatuyi
-general_email: your_general_email@gmail.com
-academic_email: your_academic_email@univ
+general_email: feyisayorachel@gmail.com
+academic_email: OLWRAC002@myuct.ac.za
+academic_email2: oluwatuyi.rf@lasustech.edu.ng
 
 description: > # this means to ignore newlines until "baseurl:"
   Give a brief description of yourself, and maybe your passion/interests. It is displayed in search results.
@@ -11,9 +12,9 @@ baseurl: # the subpath of your site, e.g. /blog/
 url: "https://racheloluwa.github.io" # the base hostname & protocol for your site
 
 # twitter_username: jekyllrb
-github_username: github_username
-linkedin_username: linkedin_username
-facebook_username: facebook_username
+github_username: <a href="https://github.com/racheloluwa"> racheloluwa </a>
+linkedin_username: Rachel Feyisayo Oluwatuyi
+facebook_username: Rachel Feyisayo Oluwatuyi
 # feel free to add other links here; you will have to add the SVG icon in _layouts/footer.html
 
 # Build settings
