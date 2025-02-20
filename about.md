@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-{% include image.html url="/images/profile.jpg" caption="A sassy caption here" width=300 align="right" %}
+{% include image.html url="/images/profile.jpg" caption="Researcher || Lecturer" width=300 align="right" %}
 
 <p style="text-align: justify;">I am a PhD researcher in Computer Science at the <a href="https://sit.uct.ac.za/hpi-members">Hasso Plattner Institute Research School</a> and <a href="https://sit.uct.ac.za/">Department of Computer Science, School of IT</a>, <a href="https://uct.ac.za/">University of Cape Town</a>, South Africa. My research focuses on Human-Computer Interaction (HCI), where I leverage co-design and participatory approaches to develop inclusive, technology-driven ICT4D solutions for real-world challenges. My goal is to ensure that technology is accessible and beneficial to diverse communities. I conduct my research within the HCI Lab at the <a href="https://uct.ac.za/">University of Cape Town</a> under the supervision of <a href="https://www.melissadensmore.com/">Prof. Melissa Densmore</a>. I am a recipient of the <a href="https://sit.uct.ac.za/hpi-research-school">Hasso Plattner Institute Fellowship</a> and a University of Ibadan Scholar.</p>
 
