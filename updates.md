@@ -31,4 +31,8 @@ Here is my life updates and I navigate though life and my careeer.
 	<li>
 		<b>January 2024</b> - Published my first-ever research paper. Find the paper <a href="https://dl.acm.org/doi/abs/10.1145/3628096.3628756">here.</a>
 	</li><br>
+	
+	<li>
+		<b>February 2023 - December 2023</b> - Served as a volunteer chair at The 5th Biennial African Human Computer Interaction Conference.</a>
+	</li><br>
 </ul>
