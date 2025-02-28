@@ -33,6 +33,6 @@ Here is my life updates and I navigate though life and my careeer.
 	</li><br>
 	
 	<li>
-		<b>February 2023 - December 2023</b> - Served as a volunteer chair at The 5th Biennial African Human Computer Interaction Conference.</a>
+		<b>February 2023 - December 2023</b> - Served as a volunteer chair at The 5th Biennial African Human Computer Interaction Conference.
 	</li><br>
 </ul>
