@@ -11,7 +11,7 @@ My research primarily focus on Human-Computer Interaction. Find more from my <a 
 	<li>
 		<b>Combating Urban Dirt: A Systematic Internet of Things Approach to Waste Management</b><br>
 		<i>Robiat Azeez, Victoria Boluwatife Afolabi, Abidemi Emmanuel Adeniyi, Wilson Sakpere, Ismail Gboyega Adepoju, <b>Rachel Feyisayo Oluwatuyi</b>, Josteve Adekanbi, Wonderful Osalor</i><br>
-		2024 International Conference on Science, Engineering and Business for Driving Sustainable Development Goals (SEB4SDG), 2024<br>
+		International Conference on Science, Engineering and Business for Driving Sustainable Development Goals (SEB4SDG), 2024<br>
 		<a href="https://ieeexplore.ieee.org/abstract/document/10630133"><div class="color-button">publisher</div></a>
 	</li><br>
 	<li>
