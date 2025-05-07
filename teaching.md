@@ -27,7 +27,7 @@ permalink: /teaching/
 <h3>Computer Department</h3>
 <ul>
 	<li>Introduction to Computer Science<sup>&dagger;</sup></li>
-	<li>System Analysis and Design</sup></li>
+	<li>System Analysis and Design</li>
 	<li>Scientific Programming</li>
 </ul>
 
