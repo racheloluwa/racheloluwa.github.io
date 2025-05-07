@@ -4,16 +4,16 @@ title: Teaching
 permalink: /teaching/
 ---
 
-<h2>At &lt;your university name&gt;</h2>
+<h2>At &lt;University of Cape Town&gt;</h2>
 
-<h3>Department 1</h3>
+<h3>Computer Department</h3>
+<ul>
+	<li>
+		Human-Computer Interaction* <sup>&dagger;</sup>
+		Object-Oriented Programming in Python*
+	</li>
+</ul>
 
-<a href="">CS335</a>: Arificial Intelligence and Machine Learning* <sup>&dagger;</sup>
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS726</a>: Advanced Machine Learning*
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS302</a>: Implementation of Programming Languages* <sup>&dagger;</sup>
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS310</a>: Automata Theory*
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS663</a>: Fundamentals of Digital Image Processing
-<b>&nbsp;&middot;&nbsp;</b> <a href="">CS475</a>: Computer Graphics
 
 <h3>Department 2</h3>
 <a href="">SI404</a>: Applied Stochastic Processes*
