@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Travel
+title: Books
 permalink: /miscellany/books/
 ---
 
-Add photographs of your journey around the world!
+Add books of your journey around the world!
