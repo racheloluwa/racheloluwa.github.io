@@ -18,7 +18,9 @@
   subcategories:
     - subtitle: "Courses Undertaken"
       subhref: "/miscellany/courses/"
-    //- subtitle: "Extracurriculars"
+    - subtitle: "Extracurriculars"
       subhref: "/miscellany/extracurricular/"
-    //- subtitle: "Travel"
+    - subtitle: "Travel"
       subhref: "/miscellany/travel/"
+    - subtitle: "Books"
+      subhref: "/miscellany/books/"
