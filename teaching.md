@@ -7,7 +7,7 @@ permalink: /teaching/
 <h2>At University of Cape Town, Cape Town, South Africa</h2>
 <h3>Computer Department</h3>
 <ul>
-	<li>Human-Computer Interaction* <sup>&dagger;</sup></li>
+	<li>Human-Computer Interaction*</li>
 	<li>Object-Oriented Programming in Python*</li>
 </ul>
 
@@ -21,6 +21,14 @@ permalink: /teaching/
 	<li>Web Technology<sup>&dagger;</sup></li>
 	<li>Human-Computer Interaction</li>
 	<li>Artificial Intelligence</li>
+</ul>
+
+<h2>At University of Ibadan, Ibadan, Nigeria</h2>
+<h3>Computer Department</h3>
+<ul>
+	<li>Introduction to Computer Science<sup>&dagger;</sup></li>
+	<li>System Analysis and Design</sup></li>
+	<li>Scientific Programming</li>
 </ul>
 
 
