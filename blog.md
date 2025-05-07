@@ -20,7 +20,7 @@ Here are my carefully compiled views on some topics that I encountered so far. H
 {% endfor %}
 </ul> -->
 
-<h2>Do We Need a Bit of Technology for Societal Challenges?</h2>
+<h3><b>Do We Need a Bit of Technology for Societal Challenges?</b></h3>
 
 <p>It's a question that sounds deceptively simple: Do we need a bit of technology for societal challenges? Not a total overhaul. Not a revolution. Just a bit. But even that “bit” is loaded with assumptions — about what technology is, what it does, and who gets to wield it.
 
