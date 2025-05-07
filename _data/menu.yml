@@ -10,12 +10,15 @@
 - title: "Blog"
   href: "/blog/"
 
+- title: "Teaching"
+  href: "/teaching/"
+  
 - title: "CV"
   href: "/cv/"
   
-- title: "Teaching"
-  href: "/teaching/"
-
+  
+  
+  
 # - title: "Miscellany"
   # href: "/miscellany/"
   # subcategories:
