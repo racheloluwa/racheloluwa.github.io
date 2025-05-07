@@ -9,7 +9,7 @@ Here is my life updates as I navigate though life and my careeer.
 
 <ul>
 	<li>
-		<b>April - March 2025</b> - Commemced and completed <a href="https://dschoolafrika.uct.ac.za/learn-design-thinking-uct-students/foundation-programme-design-thinking-9-weeks" target="_blank"> design thinking foundation course </a> at <a href="https://dschoolafrika.uct.ac.za/" target="_blank"> Hasso Plattner D-school AFRIK*A, University of Cape Town</a>.
+		<b>April - March 2025</b> - Commenced and completed <a href="https://dschoolafrika.uct.ac.za/learn-design-thinking-uct-students/foundation-programme-design-thinking-9-weeks" target="_blank"> design thinking foundation course </a> at <a href="https://dschoolafrika.uct.ac.za/" target="_blank"> Hasso Plattner D-school AFRIK*A, University of Cape Town</a>.
 	</li><br>
 	
 	<li>
@@ -17,7 +17,7 @@ Here is my life updates as I navigate though life and my careeer.
 	</li><br>
 	
 	<li>
-		<b>February 2025</b> - I presented my PhD proposal to the department of Computer Science, University of Cape Town.
+		<b>25th February 2025</b> - I presented my PhD proposal to the department of Computer Science, University of Cape Town.
 	</li><br>
 	
 	<li>
