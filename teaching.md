@@ -4,33 +4,26 @@ title: Teaching
 permalink: /teaching/
 ---
 
-<h2>At &lt;University of Cape Town&gt;</h2>
-
+<h2>At University of Cape Town, Cape Town, South Africa</h2>
 <h3>Computer Department</h3>
 <ul>
-	<li>
-		Human-Computer Interaction* <sup>&dagger;</sup>
-		Object-Oriented Programming in Python*
-	</li>
+	<li>Human-Computer Interaction* <sup>&dagger;</sup></li>
+	<li>Object-Oriented Programming in Python*</li>
 </ul>
 
 
-<h3>Department 2</h3>
-<a href="">SI404</a>: Applied Stochastic Processes*
-<b>&nbsp;&middot;&nbsp;</b> <a href="">SI402</a>: Statistical Inference
-<b>&nbsp;&middot;&nbsp;</b> <a href="">SI417</a>: Introduction to Probability Theory
+<h2>At Lagos State University of Science and Technology, Lagos, Nigeria</h2>
+<h3>Computer Department</h3>
+<ul>
+	<li>Introduction to Computer Science<sup>&dagger;</sup></li>
+	<li>Computer Applications<sup>&dagger;</sup></li>
+	<li>Introduction to Problem Solving<sup>&dagger;</sup></li>
+	<li>Web Technology<sup>&dagger;</sup></li>
+	<li>Human-Computer Interaction</li>
+	<li>Artificial Intelligence</li>
+</ul>
 
-<h3>Department 3</h3>
-<a href="">MA214</a>: Introduction to Numerical Analysis*
-<b>&nbsp;&middot;&nbsp;</b> <a href="">MA106</a>: Linear Algebra
-<b>&nbsp;&middot;&nbsp;</b> <a href="">MA108</a>: Differential Equations
-<b>&nbsp;&middot;&nbsp;</b> <a href="">MA105</a>: Calculus
-
-
-<h2>MOOC</h2>
-<a href="http://cs231n.stanford.edu/">CS231n</a>: Convolutional Neural Networks for Visual Recognition
-<b>&nbsp;&middot;&nbsp;</b> <a href="http://cs224d.stanford.edu/">CS224d</a>: Deep Learning for Natural Language Processing
 
 <div align= "right">
-	*<i>pursuing currently</i><br><sup>&dagger;</sup><i>accompanied by a separate lab course</i>
+	*<i>teaching currently</i><br><sup>&dagger;</sup><i>includes non-computer science (other department) students</i>
 </div>
