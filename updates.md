@@ -9,9 +9,9 @@ Here is my life updates as I navigate though life and my careeer.
 
 <ul>
 	<li>
-		<b>May 2025</b> - Completed a courses with Cisco on Modern AI <br>
+		<b>May 2025</b> - Completed a courses from <a href="https://www.cisco.com/" target="_blank">Cisco</a> - Introduction to Modern AI <br>
 		<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="82096ccb-c202-431a-ac8f-bd85cc0d55d1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-		</li><br>
+	</li>
 
 	<li>
 		<b>April - March 2025</b> - Commenced and completed <a href="https://dschoolafrika.uct.ac.za/learn-design-thinking-uct-students/foundation-programme-design-thinking-9-weeks" target="_blank"> design thinking foundation course </a> at <a href="https://dschoolafrika.uct.ac.za/" target="_blank"> Hasso Plattner D-school AFRIK*A, University of Cape Town</a>.
