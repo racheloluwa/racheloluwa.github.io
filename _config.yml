@@ -4,10 +4,11 @@ general_email: feyisayorachel@gmail.com
 academic_email: OLWRAC002@myuct.ac.za
 academic_email2: oluwatuyi.rf@lasustech.edu.ng
 
-description: > # this means to ignore newlines until "baseurl:"
-  Give a brief description of yourself, and maybe your passion/interests. It is displayed in search results.
+description: > # this means to ignore newlines until "baseurl:" #Give a brief description of yourself, and maybe your passion/interests. It is displayed in search results.
+  I am an early-career researcher in Computer Science with interests in AI literacy, Human–Computer Interaction (HCI), and AI policy and governance in developing contexts. My research explores participatory approaches, including co-design with communities, to shape responsible and inclusive AI experiences. I am passionate about leveraging AI and emerging technologies to support meaningful and equitable participation in African contexts.
 
 baseurl: # the subpath of your site, e.g. /blog/
+
 
 url: "https://racheloluwa.github.io" # the base hostname & protocol for your site
 
